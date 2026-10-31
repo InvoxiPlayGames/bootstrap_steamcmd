@@ -1,0 +1,11 @@
+.DS_Store
+Steam/
+*.so
+*.dylib
+steamcmd
+steamcmd.sh
+steamcmd64.sh
+*.zip
+*.zip.*
+manifest
+steam_cmd_*
